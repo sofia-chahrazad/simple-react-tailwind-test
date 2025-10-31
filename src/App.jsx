@@ -11,7 +11,7 @@ export default function App() {
         <h1 className="text-2xl font-semibold mb-4 bg-black" >Hello — React + Tailwind</h1>
         <p className="text-slate-600">This is a minimal starter. Edit <code>src/App.jsx</code> to start.</p>
         <button className="mt-6 px-4 py-2 bg-indigo-600 text-white rounded hover:bg-indigo-700">
-          Click me v2
+          Click me v1 in VSCode
         </button>
       </div>
     </div>
